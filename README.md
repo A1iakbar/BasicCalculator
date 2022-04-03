@@ -2,9 +2,9 @@
 A simple calculator that performs actions such as, addition, subtraction, multiplication, division.
 
 
-Source Code:
+Source Code: SimpleCalculator.pyw
 
-Application Form: 
+Application Form: SimpleCalculator.exe
 
 
                                 Sign: Calypso
